@@ -28,4 +28,3 @@
 - Linux
 - Wireshark
 - Arduino / IoT
-- Git & GitHub
