@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khalid Ait Oufkir</h1>
 
-<!--
-**0xn1t5u/0xn1t5u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🔐 Cybersecurity & Networking Enthusiast <br>
+🎓 Master's Student – Communication Systems, Data Centers & Cybersecurity <br>
+💻 Interested in SOC Operations, Ethical Hacking & Bug Bounty <br>
+🌐 Passionate about Networks, MPLS, VPNs & IoT Projects
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- Email: khalidaitoufkir3@gmail.com
+- LinkedIn: https://www.linkedin.com/in/khalidaitoufkir/
+
+---
+
+### 🔗 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/khalidaitoufkir/" target="blank">LinkedIn</a>
+</p>
+
+---
+
+### 🛠 Languages and Tools
+- Networking (MPLS, VPN, Routing)
+- Python
+- Linux
+- Wireshark
+- Arduino / IoT
+- Git & GitHub
